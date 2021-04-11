@@ -1,0 +1,22 @@
+.widget{
+    align-items: center;
+}
+
+.header{
+    padding: 10px;
+    text-align: center;
+    background: #0088CC;
+    color: white;
+    font-size: 10px;
+    border-radius: 10px;
+}
+
+body{
+    background-color: #ebecf0;
+}
+
+.icon{
+    position: fixed;
+    top: 0;
+    left:670px;
+}
