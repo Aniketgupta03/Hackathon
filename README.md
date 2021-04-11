@@ -1,5 +1,7 @@
 # ChatterWeb
 
 ChatterWeb is an ALL-IN-ONE chatting website. 
-~NOTE~
+
+
+##NOTE
 Please execute Index.html in the ChatterWeb folder. 
